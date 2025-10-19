@@ -1,4 +1,4 @@
-package com.tecsup.metrolimago.ui.theme
+package com.tecsup.metrolima_go.ui.theme
 
 import android.app.Activity
 import android.os.Build
@@ -34,7 +34,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun MetroLimaGOTheme(
+fun MetroLima_GoTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = true,
